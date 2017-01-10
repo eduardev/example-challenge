@@ -1,0 +1,39 @@
+#main-page .page-header {
+    margin: 0;
+    padding: 0;
+}
+
+#main-page .page-header h1 {
+    margin: 0;
+}
+
+#main-page .page-header a {
+    display: block;
+    text-decoration: none;
+    padding: 20px 0;
+}
+
+#main-page form#search-form {
+    padding: 10px 0 10px 0;
+}
+footer {
+    border-top: 1px solid #ff6600;
+    margin-top: 15px;
+}
+
+footer .credits {
+    color: #aaa;
+    font-size: 12px;
+    padding: 5px 0 0 0
+}
+
+footer .credits a {
+    color: #888;
+}
+
+footer .copy {
+    color: #aaa;
+    font-size: 12px;
+    text-align: right;
+    padding: 5px 0 0 0;
+}

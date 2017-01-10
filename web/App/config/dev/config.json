@@ -1,0 +1,20 @@
+{
+  "paths": {
+    "controllers": "",
+    "models": "",
+    "views": "/App/Mvc/Views"
+  },
+  "namespaces": {
+    "controllers": "Eduardo\\Example\\App\\Mvc\\Controllers",
+    "models": "Eduardo\\Example\\App\\Mvc\\Models",
+    "library": "Eduardo\\Example\\App\\Lib"
+  },
+  "mysql": {
+    "host": "-- NO --.cwm1vwrflyag.eu-west-1.rds.amazonaws.com:3306",
+    "user": "-- NO --",
+    "pass": "-- NO --"
+  },
+  "elastic": {
+    "host": "http://ec2-54-171-165-55.eu-west-1.compute.amazonaws.com:"
+  }
+}
